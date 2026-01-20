@@ -1,4 +1,5 @@
-## Hi there I am Nick  👋
+## Hi my name is Nicholas Seas
+## I am currently studying Computer Engineering  👋
 
 <!--
 **NSeas1/NSeas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
