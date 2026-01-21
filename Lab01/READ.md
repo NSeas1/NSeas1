@@ -7,22 +7,22 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/NSeas1)
+1. [NSeas1's GitHub Profile](https://github.com/NSeas1)
 
 ## Part 2 - Research
 
 | Windows | Linux / Mac | Action |
-| ---     | ---         | ---    |
+| ---     | ---         | ---    | 
 | help    | man         | displays pages of useful commands       |
 | Get-Location | pwd    |  shows the working directory you are in      |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| Get-ChildItem | ls    |  list folders and files in the directory      |
+| mkdir   | mkdir       |  creates a new directory      |
+| Set-Location | cd     |   changes the directory you are using     |
+| New-Item | touch      |    creates a new file    |
+| Move-Item | mv        |    moves/rename a file or directory    |
+| Copy-Item | cp        |    copies data from file or directories    |
+| Remove-Item | rm      |    deletes a file or directory    |
+| notepad.exe | vim     |    brings up a text editor to edit files    |
 
 ## Part 3 - Command Line Navigation
 
@@ -31,7 +31,7 @@ My OS is:
 - [] Linux
 - [] Mac
 
-My Command Line Shell is: 
+My Command Line Shell is: Windows PowerShell
 
 ### Navigating My OS on the Command Line
 
@@ -53,5 +53,5 @@ Put your words here
 13. Delete / remove both `fodder.txt` AND `Dir B`:
 
 ## Citations
-
+ChatGPT (OpenAI) assisted me with finding the Command Line commands (Part 2). I feed it a prompt of the words and it described what each one did.
 To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
