@@ -1,20 +1,20 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Nicholas Seas
+- Email: seas.10@wright.edu
 
 Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Instructions.html
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/NSeas1)
 
 ## Part 2 - Research
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
-| Get-Location | pwd    |        |
+| help    | man         | displays pages of useful commands       |
+| Get-Location | pwd    |  shows the working directory you are in      |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
 | Set-Location | cd     |        |
