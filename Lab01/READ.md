@@ -53,5 +53,5 @@ Put your words here
 13. Delete / remove both `fodder.txt` AND `Dir B`:
 
 ## Citations
-ChatGPT (OpenAI) assisted me with finding the Command Line commands (Part 2). I feed it a prompt of the words and it described what each one did.
+ChatGPT (OpenAI) assisted me with finding the Command Line commands (Part 2). I feed it a prompt of the commands and it described what each one did.
 To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
