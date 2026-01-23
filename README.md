@@ -1,4 +1,4 @@
-##### Hi my name is Nicholas Seas. I am currently studying Computer Engineering. I am looking forward to learning more about computers throughout my undergraduate degree.  👋
+##### Hi my name is Nicholas Seas. I am currently studying Computer Engineering. I haven't started any projects for class yet but I am looking forward to (when I have some extra time) creating some projects of my own, such as a in depth text based game or a to do list application. I am looking forward to learning more about computers throughout my undergraduate degree.  👋
 
 <!--
 **NSeas1/NSeas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
