@@ -31,26 +31,27 @@ My OS is:
 - [] Linux
 - [] Mac
 
-My Command Line Shell is: Windows PowerShell
+My Command Line Shell is: WSL
 
 ### Navigating My OS on the Command Line
 
-1. Full / absolute path to your user's home directory:
-2. Create a directory named `DirA`:
-3. Create a directory named `Dir B`:
-4. Go into `DirA`:
-5. Go into `Dir B` from `DirA`:
-6. Return to your user's home directory:
-7. Create a file named `test.txt`:
-8. Move the file named `test.txt` into `DirA`:
+1. Full / absolute path to your user's home directory: echo $HOME
+2. Create a directory named `DirA`: mkdir DirA
+3. Create a directory named `Dir B`: mkdir "Dir B"
+4. Go into `DirA`: cd DirA
+5. Go into `Dir B` from `DirA`: cd ../"Dir B"
+6. Return to your user's home directory: cd ~
+7. Create a file named `test.txt`: touch test.txt
+8. Move the file named `test.txt` into `DirA`: mv test.txt DirA/
 9. Contents of `test.txt`:
 ```
-Put your words here
+Hi world
 ```
-10. Make a copy of `test.txt` named `copy.txt` in `DirA`:
-11. View the contents of `DirA`: 
-12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:
-13. Delete / remove both `fodder.txt` AND `Dir B`:
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp DirA/test.txt DirA/copy.txt
+11. View the contents of `DirA`: ls DirA
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: cp DirA/test.txt "Dir B/fodder.txt"
+13. Delete / remove both `fodder.txt` AND `Dir B`:rm "Dir B/fodder.txt"
+rm -r "Dir B"
 
 ## Citations
 ChatGPT (OpenAI) assisted me with finding the Command Line commands (Part 2). I feed it a prompt of the commands and it described what each one did.
